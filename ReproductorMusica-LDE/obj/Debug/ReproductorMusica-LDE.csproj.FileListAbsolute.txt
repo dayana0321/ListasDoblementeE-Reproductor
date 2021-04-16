@@ -1,0 +1,61 @@
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE\ReproductorMusica-LDE\bin\Debug\ReproductorMusica-LDE.exe.config
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE\ReproductorMusica-LDE\bin\Debug\ReproductorMusica-LDE.exe
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE\ReproductorMusica-LDE\bin\Debug\ReproductorMusica-LDE.pdb
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE\ReproductorMusica-LDE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE\ReproductorMusica-LDE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.csprojAssemblyReference.cache
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE\ReproductorMusica-LDE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE\ReproductorMusica-LDE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.csproj.ResolveComReference.cache
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE\ReproductorMusica-LDE\obj\Debug\ReproductorMusica_LDE.Form1.resources
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE\ReproductorMusica-LDE\obj\Debug\ReproductorMusica_LDE.Properties.Resources.resources
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.csproj.GenerateResource.cache
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.exe
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.pdb
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\ReproductorMusica-LDE.exe.config
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\ReproductorMusica-LDE.exe
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\ReproductorMusica-LDE.pdb
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.csprojAssemblyReference.cache
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.csproj.ResolveComReference.cache
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica_LDE.Form1.resources
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica_LDE.Properties.Resources.resources
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.csproj.GenerateResource.cache
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.exe
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.pdb
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\ReproductorMusica-LDE.exe.config
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\ReproductorMusica-LDE.exe
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\ReproductorMusica-LDE.pdb
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\Interop.WMPLib.dll
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.csprojAssemblyReference.cache
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\Interop.WMPLib.dll
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.csproj.ResolveComReference.cache
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica_LDE.Form1.resources
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica_LDE.Properties.Resources.resources
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.csproj.GenerateResource.cache
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.csproj.CoreCompileInputs.cache
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.exe
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.pdb
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\Interop.MSComctlLib.dll
+C:\Users\hmorales1\Documents\Visual Studio 2019\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\AxInterop.MSComctlLib.dll
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.csprojAssemblyReference.cache
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.csproj.ResolveComReference.cache
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica_LDE.Form1.resources
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica_LDE.Properties.Resources.resources
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.csproj.GenerateResource.cache
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.exe
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.pdb
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\ReproductorMusica-LDE.exe.config
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\ReproductorMusica-LDE.exe
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\ReproductorMusica-LDE.pdb
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\bin\Debug\MACTrackBarLib.dll
+C:\Users\Adminitrador\Downloads\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE - copia\ReproductorMusica-LDE\obj\Debug\ReproductorMusica-LDE.csproj.CopyComplete
